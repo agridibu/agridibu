@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Dibya Bhatta
-- 👀 I’m interested in Plant stress phyiology
-- 🌱 I’m currently learning Coding.
-- 😄 Pronouns: She/her
+# Thank you for watching video. You can easily download website and use it.
 
-<!---
-agridibu/agridibu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Source: startbootstrap.com
